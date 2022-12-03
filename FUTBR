@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FutBr</title> 
+        <style>
+            body {
+                background-color: #333333
+            }
+        </style>
+        <a href="EOBC4313.PNG"></a>
+    </head>
+    <body>
+        <hr size="10" align="center" color="#008fb3" <hr />    
+        <img src="REOR0679.PNG" width="150px" height="150px"
+        <div align="left" > </div>
+        <img src="EOBC4313.PNG" width="150px" height="150px"
+        <div align="right" > </div> 
+        <p>.</p>
+        <h1 style="color:#008fb3;" >
+        <center><font size="7"> FUTBR </font></center></h1>
+        <p>.</p>
+        <hr size="6" align="center" color="#008fb3" <hr />
+        </body>
+</html>
